@@ -84,6 +84,9 @@ udm_model() {
   "UniFi Express")
     echo "ux"
     ;;
+  "UniFi Express 7")
+    echo "ux"
+    ;;
   "UniFi Cloud Gateway Fiber")
     echo "ucgfiber"
     ;;	
